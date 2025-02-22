@@ -1,0 +1,14 @@
+C:\Users\alexm\OneDrive\Escritorio\DaW\Fundamentos de la Programación\Trabajos\Evaluable 2\GestionEntrenamientos\obj\Debug\net8.0\GestionEntrenamientos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\OneDrive\Escritorio\DaW\Fundamentos de la Programación\Trabajos\Evaluable 2\GestionEntrenamientos\obj\Debug\net8.0\GestionEntrenamientos.AssemblyInfoInputs.cache
+C:\Users\alexm\OneDrive\Escritorio\DaW\Fundamentos de la Programación\Trabajos\Evaluable 2\GestionEntrenamientos\obj\Debug\net8.0\GestionEntrenamientos.AssemblyInfo.cs
+C:\Users\alexm\OneDrive\Escritorio\DaW\Fundamentos de la Programación\Trabajos\Evaluable 2\GestionEntrenamientos\obj\Debug\net8.0\GestionEntrenamientos.csproj.CoreCompileInputs.cache
+C:\Users\alexm\OneDrive\Escritorio\DaW\Fundamentos de la Programación\Trabajos\Evaluable 2\GestionEntrenamientos\bin\Debug\net8.0\GestionEntrenamientos.exe
+C:\Users\alexm\OneDrive\Escritorio\DaW\Fundamentos de la Programación\Trabajos\Evaluable 2\GestionEntrenamientos\bin\Debug\net8.0\GestionEntrenamientos.deps.json
+C:\Users\alexm\OneDrive\Escritorio\DaW\Fundamentos de la Programación\Trabajos\Evaluable 2\GestionEntrenamientos\bin\Debug\net8.0\GestionEntrenamientos.runtimeconfig.json
+C:\Users\alexm\OneDrive\Escritorio\DaW\Fundamentos de la Programación\Trabajos\Evaluable 2\GestionEntrenamientos\bin\Debug\net8.0\GestionEntrenamientos.dll
+C:\Users\alexm\OneDrive\Escritorio\DaW\Fundamentos de la Programación\Trabajos\Evaluable 2\GestionEntrenamientos\bin\Debug\net8.0\GestionEntrenamientos.pdb
+C:\Users\alexm\OneDrive\Escritorio\DaW\Fundamentos de la Programación\Trabajos\Evaluable 2\GestionEntrenamientos\obj\Debug\net8.0\GestionEntrenamientos.dll
+C:\Users\alexm\OneDrive\Escritorio\DaW\Fundamentos de la Programación\Trabajos\Evaluable 2\GestionEntrenamientos\obj\Debug\net8.0\refint\GestionEntrenamientos.dll
+C:\Users\alexm\OneDrive\Escritorio\DaW\Fundamentos de la Programación\Trabajos\Evaluable 2\GestionEntrenamientos\obj\Debug\net8.0\GestionEntrenamientos.pdb
+C:\Users\alexm\OneDrive\Escritorio\DaW\Fundamentos de la Programación\Trabajos\Evaluable 2\GestionEntrenamientos\obj\Debug\net8.0\GestionEntrenamientos.genruntimeconfig.cache
+C:\Users\alexm\OneDrive\Escritorio\DaW\Fundamentos de la Programación\Trabajos\Evaluable 2\GestionEntrenamientos\obj\Debug\net8.0\ref\GestionEntrenamientos.dll
